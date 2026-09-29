@@ -6,7 +6,7 @@ updates:
       - "packages/twenty-apps/community/**"
     schedule:
       interval: "weekly"
-    open-pull-requests-limit: 3
+    open-pull-requests-limit: 0
     versioning-strategy: "lockfile-only"
     assignees:
       - "mabdullahabaid"
